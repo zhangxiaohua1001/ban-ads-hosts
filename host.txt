@@ -91,16 +91,16 @@
 0.0.0.0  tobapplog.ctobsnssdk.com 
 0.0.0.0  cfg-cdn.aiclk.com 
 0.0.0.0  ad-sdk.aiclk.com 
-0.0.0.0  restapi.amap.com 
+
 0.0.0.0  restapi.amap.com 
 0.0.0.0  lupic.cdn.bcebos.com 
 0.0.0.0  ad.toutiao.com 
 0.0.0.0  lf3-adcdn-tos.pstatp.com 
-@@0.0.0.0  sdfp.snssdk.com 
-@@0.0.0.0  xlog.snssdk.com 
-@@0.0.0.0  reading.snssdk.com 
-@@0.0.0.0  i.snssdk.com 
-@@0.0.0.0  log.snssdk.com 
+
+
+
+
+
 0.0.0.0  byteimg.com 
 0.0.0.0  jmacs.maribacaberita.com 
 0.0.0.0  scdn.chitu107.com 
@@ -130,7 +130,7 @@
 0.0.0.0  pstatp.com 
 0.0.0.0  acs.maribacaberita.com 
 0.0.0.0  lzlsdownload.mop.com 
-0.0.0.0  lzlsdownload.mop.com 
+
 0.0.0.0  mop.com 
 0.0.0.0  update0.aiclk.com 
 0.0.0.0  tj.tfqtt.top 
